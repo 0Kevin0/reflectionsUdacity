@@ -15,3 +15,6 @@ A:git log is a great command to spot a specific edition to the project. Using it
 
 How might using version control make you more confident to make changes that could break something?
 A: In non-trivial programs (a.k.a. most of them) as the code progress, I might discover that a different way to do something is better, or somebody changed his mind, or maybe I discover a new library and wish to try it, but I have this time constraints. with Git I have the chance to try this new things and if I fail, I don't have to worry about getting things back as they were, or having to worry on having multiple folders with different dates for version control, and having to add new folders each time.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+A: For the Android tutorial of course!
