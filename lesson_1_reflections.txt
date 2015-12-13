@@ -12,3 +12,6 @@ A: Because the files on Git have logical connections between them to form a proj
 
 How can you use the commands git log and git diff to view the history of files?
 A:git log is a great command to spot a specific edition to the project. Using it in combination with --stat is very helpful to know how many changes were introduced and git diff is there to show those changes.
+
+How might using version control make you more confident to make changes that could break something?
+A: In non-trivial programs (a.k.a. most of them) as the code progress, I might discover that a different way to do something is better, or somebody changed his mind, or maybe I discover a new library and wish to try it, but I have this time constraints. with Git I have the chance to try this new things and if I fail, I don't have to worry about getting things back as they were, or having to worry on having multiple folders with different dates for version control, and having to add new folders each time.
