@@ -9,3 +9,6 @@ A:Using a git diff --staged to check the files before executing the commit. That
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A: I believe that they would help when you experiment with things like new libraries or if you wish to compare the performance of different algorithms on a function.
+
+How do the diagrams help you visualize the branch structure?
+A: Well they summarize the changes and show where the code diverts and the ways it took.
