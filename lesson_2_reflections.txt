@@ -6,3 +6,6 @@ A: staging area is probably just a list of files that indicate which files will 
 
 How can you use the staging area to make sure you have one commit per logical change?
 A:Using a git diff --staged to check the files before executing the commit. That way it would be easier and faster to see if the changes revolve around one logical change or not.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: I believe that they would help when you experiment with things like new libraries or if you wish to compare the performance of different algorithms on a function.
