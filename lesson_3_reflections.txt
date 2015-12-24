@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+A: In cases where I am working on a team, or on several machines. Also If I wish to make an open source proyect, github seems the way to go
