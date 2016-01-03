@@ -9,3 +9,6 @@ A:Forks are to make a clone from another person's github account and to work on 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 A: The benefit is to be able to compare the changes made since the last downloaded version. That way it's theoretically easier to solve conflicts and is a faster way to detect new changes on the origin project.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: I would probably use another version system. But as I don't know any other yet, my system would be perhaps getting a common Google Drive account or a shared folder on DropBox, then I would have multiple sub-folders with the versions that work and experimental versions. And a shared document to centralice the workflow. What would be easier might be that people that haven't used git or github would get on board faster and would understand how to do it from the start. On the things that would be harder would be to merge things, to manage which is the latest version and to make them have the discipline to do the work without messing with the files.
