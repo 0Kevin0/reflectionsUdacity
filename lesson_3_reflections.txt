@@ -3,3 +3,9 @@ A: In cases where I am working on a team, or on several machines. Also If I wish
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A: I believe that is because it could create conflicts on a teamwork flow, for example if another person updates the file with a change, while I'm working on something else, that person's push would cause a pull on my directory and would overwrite my work.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A:Forks are to make a clone from another person's github account and to work on it. Clones are to make a local copy from github on my computer and branches are for making diferent/experimental versions of work (that could or could not be local only).
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+A: The benefit is to be able to compare the changes made since the last downloaded version. That way it's theoretically easier to solve conflicts and is a faster way to detect new changes on the origin project.
